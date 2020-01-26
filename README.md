@@ -2,5 +2,5 @@
 Euler Challenges Attempted
 
 
-My attempts at the euler challenges
+My attempts at the euler project
 
